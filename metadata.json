@@ -1,0 +1,6 @@
+{
+  "name": "Paisaje de Flores Amarillas",
+  "description": "Un paisaje animado de flores amarillas al atardecer con lluvia de pétalos dorados y una carta de amor especial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
